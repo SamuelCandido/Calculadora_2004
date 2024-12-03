@@ -26,7 +26,7 @@
    - Botões "+", "-", "*", "/" para adicionar operadores à expressão.
 
 7. **Restrição de Edição:**
-   - A calculadora deve ser operada exclusivamente pelos botões implementados na interface gráfica. O campo de texto das operações não deve ser editável diretamente.
+   - A calculadora deve ser operada exclusivamente pelos botões implementados na interface gráfica. O campo de texto das operações não é editável diretamente.
 
 ### Exemplo de Implementação
 
